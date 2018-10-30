@@ -58,3 +58,6 @@ No decorrer dos experimentos os testes foram feitos com valores diferentes ao de
  
  ##### Figura 6 -Throughput - Remote Server
  <img src="https://image.ibb.co/jfTBHf/exec-c3.png" alt="TP2" border="0"></p>
+
+#### Exercício E [0%]:
+> **melhorQigual**
