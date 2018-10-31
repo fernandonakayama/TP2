@@ -56,6 +56,10 @@ Para o exercício D, foram realizadas melhorias no esquema anterior, com mudanç
 
 Outro benefício pode ser obtido por conta da utilização do RTT como variável de controle para o Treshold, ao contrário de simplesmente utilizar um valor fixo como gatilho.
 
+A experiência adquirida nos exercícios A e B fez com que o esquema fosse ajustado de forma facilitada, muitos dos valores ótimos já haviam sido identificados, mesmo assim vários testes foram realizados até o ajuste final.
+
+Por ser um esquema muito simples, a principal dificuldade é encotrar o equilíbrio entre o envio de segmentos e as ações a serem tomadas no início do congestionamento. Um tamanho de janela que permita um envio mais agressivo gera uma melhor vazão, mas penaliza o esquema no caso de congestionamento. O melhor equilibrio foi alcançado no esquema atual, tentando controlar o envio de forma mais racional, e sendo relativamente conservador no caso de congestionamento.
+
 ##### Figura 3 - Repetições - Esquema melhorQigual
  <img src="https://image.ibb.co/n8BWHf/repet-c.png" alt="TP2" border="0"></p>
  
