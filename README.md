@@ -93,4 +93,4 @@ Average throughput: 3.55 Mbits/s (70.5% utilization)
 
 95th percentile signal delay: 93 ms
 
-####Power: 38.22
+#### Power: 38.22
