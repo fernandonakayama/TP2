@@ -75,4 +75,6 @@ Os valores obtidos em 33 repetições foi mais regular quando comparado ao esque
  <img src="https://image.ibb.co/jfTBHf/exec-c3.png" alt="TP2" border="0"></p>
 
 #### Exercício E [0%]:
-> **melhorQigual**
+> melhorQigual
+
+###### Link com resultados de teste: http://cs344g.keithw.org/report/?melhorQigual-1540947571-leepieva
