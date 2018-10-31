@@ -60,6 +60,8 @@ A experiência adquirida nos exercícios A e B fez com que o esquema fosse ajust
 
 Por ser um esquema muito simples, a principal dificuldade é encotrar o equilíbrio entre o envio de segmentos e as ações a serem tomadas no início do congestionamento. Um tamanho de janela que permita um envio mais agressivo gera uma melhor vazão, mas penaliza o esquema no caso de congestionamento. O melhor equilibrio foi alcançado no esquema atual, tentando controlar o envio de forma mais racional, e sendo relativamente conservador no caso de congestionamento.
 
+As variações testadas, foram feita basicamente na variação da janela no caso de congestionamento, no incremento dos valores quando a taxa de envio é relativamente baixa (anterior ao treshold), e no valor de timeout.
+
 ##### Figura 3 - Repetições - Esquema melhorQigual
  <img src="https://image.ibb.co/n8BWHf/repet-c.png" alt="TP2" border="0"></p>
  
