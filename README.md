@@ -66,7 +66,7 @@ Os valores obtidos em 33 repetições foi mais regular quando comparado ao esque
 
 
 ##### Figura 4 - Summary Statistics
- <img src="https://image.ibb.co/j2MZ3L/exec-c.png" alt="TP2" border="0"></p>
+ <img src="https://image.ibb.co/euQqtL/power.png" alt="TP2" border="0"></p>
 
 ##### Figura 5 -Throughput
  <img src="https://image.ibb.co/n1DYV0/exec-c2.png" alt="TP2" border="0"></p>
