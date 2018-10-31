@@ -64,13 +64,14 @@ Os valores obtidos em 33 repetições foi mais regular quando comparado ao esque
  ##### Tabela 4 - Estatística descritiva das repetições do modelo melhorQigual
  <img src="https://image.ibb.co/c4Utxf/statc.png" alt="TP2" border="0"></p>
 
-##### Figura 4 - Summary Statistics - Remote Server
+
+##### Figura 4 - Summary Statistics
  <img src="https://image.ibb.co/j2MZ3L/exec-c.png" alt="TP2" border="0"></p>
 
-##### Figura 5 -Throughput - Remote Server
+##### Figura 5 -Throughput
  <img src="https://image.ibb.co/n1DYV0/exec-c2.png" alt="TP2" border="0"></p>
  
- ##### Figura 6 -Throughput - Remote Server
+ ##### Figura 6 -Throughput
  <img src="https://image.ibb.co/jfTBHf/exec-c3.png" alt="TP2" border="0"></p>
 
 #### Exercício E [0%]:
