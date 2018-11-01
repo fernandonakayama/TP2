@@ -15,6 +15,9 @@ Executar na pasta codigoexemplo/datagrump:
 ./run-conteste "NOME"
 
 
+
+# Relatório de atividades
+
 #### EXERCÍCIO DE AQUECIMENTO A [10%]:
 
 Para o exercício A foram testados diferentes valores de janela com 10 repetições para cada valor, acrescendo o tamanho de 10 em 10.
