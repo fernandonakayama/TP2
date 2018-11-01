@@ -83,14 +83,14 @@ Os valores obtidos em 33 repetições foi mais regular quando comparado ao esque
 #### Exercício E [0%]:
 > melhorQigual
 
-###### Link com resultados de teste: http://cs344g.keithw.org/report/?melhorQigual-1541011631-ohshejae
+###### Link com resultados de teste: http://cs344g.keithw.org/report?melhorQigual-1541086593-voingeez
 
 Average capacity: 5.04 Mbits/s
 
-Average throughput: 3.55 Mbits/s (70.5% utilization)
+Average throughput: 3.62 Mbits/s (71.8% utilization)
 
-95th percentile per-packet queueing delay: 52 ms
+95th percentile per-packet queueing delay: 51 ms
 
-95th percentile signal delay: 93 ms
+95th percentile signal delay: 94 ms
 
-#### Power: 38.22
+#### Power: 38.53
