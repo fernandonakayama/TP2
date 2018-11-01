@@ -77,7 +77,7 @@ Os valores obtidos em 33 repetições foi mais regular quando comparado ao esque
 ##### Figura 5 -Throughput
  <img src="https://image.ibb.co/n1DYV0/exec-c2.png" alt="TP2" border="0"></p>
  
- ##### Figura 6 -Throughput
+ ##### Figura 6 -Delay
  <img src="https://image.ibb.co/jfTBHf/exec-c3.png" alt="TP2" border="0"></p>
 
 #### Exercício E [0%]:
