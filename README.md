@@ -1,5 +1,20 @@
 ## TP2 INFO7015 - Tópicos em Redes de Computadores
 
+### Como utilizar
+Usar a pasta codigoexemplo cedida no enunciado do trabalho como base.
+Copiar os arquivos controller.cc e controller.hh das pastas exercicioa, exerciciob, exercicioc, para dentro da pasta codigoexemplo/datagrump (para cada exercício a ser executado).
+
+Executar na pasta codigoexemplo:
+
+$ ./autogen.sh
+$ ./configure
+$ make
+
+Executar na pasta codigoexemplo/datagrump:
+
+./run-conteste "NOME"
+
+
 #### EXERCÍCIO DE AQUECIMENTO A [10%]:
 
 Para o exercício A foram testados diferentes valores de janela com 10 repetições para cada valor, acrescendo o tamanho de 10 em 10.
